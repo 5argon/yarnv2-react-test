@@ -1,0 +1,11 @@
+{
+  "name": "@lv11/yarnv2-react-test",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "main-project",
+    "sub"
+  ]
+}

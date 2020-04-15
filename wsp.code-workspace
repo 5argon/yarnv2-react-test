@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "sub"
+		},
+		{
+			"path": "main-project"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#ec37b8",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.border": "#ec37b8",
+			"titleBar.inactiveBackground": "#ec37b899",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#ec37b8"
+	}
+}

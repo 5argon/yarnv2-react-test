@@ -1,0 +1,25 @@
+{
+  "name": "@lv11/sub",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-typescript": "^7.9.0",
+    "@testing-library/react-hooks": "^3.2.1",
+    "babel-jest": "^25.3.0",
+    "jest": "^25.3.0",
+    "react-test-renderer": "16.9.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
